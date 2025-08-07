@@ -53,7 +53,7 @@ This is a **Retrieval-Augmented Generation (RAG)** based document question-answe
 
 ---
 
-##💡 Future Improvements
+## 💡 Future Improvements
  - ✅ User dashboard with session history
 
  - ✅ Embedding selection UI
